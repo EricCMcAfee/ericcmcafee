@@ -11,7 +11,7 @@
 - 🔭 **Currently working on:** My undergraduate honors thesis investigating rumination, attentional regulation, and cognitive failures, alongside research at the Attention and Memory Lab.
 - 🎓 **Focusing on:** Psychology (B.S.) at the University of Central Florida, bridging cognitive neuroscience, attention, memory, and clinical neuropsychology.
 - 🌱 **Learning & Exploring:** Advanced psychophysiological data analysis, German language fluency (via daily Anki and Goethe-Institut training), and German master's programs in cognitive science and neuroscience.
-- 💬 **Ask me about:** Python, R, JASP, EEG and eye-tracking methodologies, software implementation management, or making a solid morning cup of whole-bean coffee.
+- 💬 **Ask me about:** Python, R, EEG and eye-tracking methodologies, software implementation management, or making a solid morning cup of whole-bean coffee.
 - ⚡ **Fun Fact:** I play the piano and also run an artisan European goods endeavor (Wandern Trachten LLC).
 
 ---
