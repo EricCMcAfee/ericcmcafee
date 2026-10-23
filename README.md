@@ -23,7 +23,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=works&logoColor=white)
 
 **Data & Research Tools:**
 ![JASP](https://img.shields.io/badge/JASP-CDDC39?style=flat-square&logo=jasp&logoColor=black)
